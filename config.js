@@ -49,7 +49,7 @@ const config = {
       database: "instagram-db",
       username: "postgres",
       password: "root",
-      //Extra configs
+      //Extra config
       define: {
         timestamps: true,
         underscored: true,
